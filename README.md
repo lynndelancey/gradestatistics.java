@@ -1,4 +1,5 @@
-# gradestatistics.javaSTART
+# gradestatistics.java
+START
     INITIALIZE an array to store 10 floating-point grades
     PROMPT user to enter 10 grades
     READ the grades into the array using a for-loop
